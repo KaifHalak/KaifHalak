@@ -2,63 +2,55 @@
 <img align="center" width=100% src='assets/typing-name.svg' alt='typing name'/>
 <img align="center" width=100% src='assets/typing-text.svg' alt='typing test'/>
 
----
+<div align="center">
+    
+#### 🖥️ Self-taught programmer 
 
-<div style="text-align: center; font-weight:600;">
-<span>🖥️ Self-taught programmer</span> <br>  
-<span>🎒 Currently a student at Universiti Teknologi Malaysia</span> <br>  
-<span>🏓 Table tennis and badminton when I'm not coding</span>
-<span>👀 I'm a tab hoarder</span>
-</div>
+#### 🎒 Currently a student at Universiti Teknologi Malaysia 
 
-### Tool Box
+#### 🏓 Table tennis and badminton when I'm not coding
 
-<div style="text-align: center;">
-<img width=30px  style="padding-right:10px;" src='assets/icons/python.svg'/>
-<img width=30px  style="padding-right:10px;" src='assets/icons/nodejs.svg'/>
-<img width=30px  style="padding-right:10px;" src='assets/icons/ts.svg'/>
-<img width=30px  style="padding-right:10px;" src='assets/icons/js.svg'/>
-
-<img width=30px  style="padding-right:10px;" src='assets/icons/expressjs.svg'/>
-
-<img width=30px  style="padding-right:10px;" src='assets/icons/mongodb.svg'/>
-<img width=30px  style="padding-right:10px;" src='assets/icons/supabase.svg'/>
-<img width="30px" style="padding-right: 10px" src="assets/icons/sqlite.svg" />
-
-<img width=30px  style="padding-right:10px;" src='assets/icons/react.svg'/>
-<img width=30px  style="padding-right:10px;" src='assets/icons/tw.svg'/>
-
-<img width=30px  style="padding-right:10px;" src='assets/icons/vitest.svg'/>
-</div>
-
-
-### Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; font-weight:600;">
-
-<div style="text-align: center;">
-    <img src='/assets/projects/lan-tic-tac-toe.gif' width="100%"/>
-    <span>LAN Tic-Tac-Toe</span>
-</div>
-
-<div style="text-align: center;">
-  <img src='/assets/projects/speed-typer.gif' width="100%"/>
-  <span>Speed Typer</span>
-</div>
-
-<div style="text-align: center;">
-  <img src='/assets/projects/youtube-player-clone.gif' width="100%"/>
-  <span>Youtube Player Clone</span>
-</div>
-
-<div style="text-align: center;">
-  <img src='/assets/projects/job-board.gif' width="100%"/>
-  <span>Job Board</span>
-</div>
+#### 👀 I'm a tab hoarder
 
 </div>
 
+
+## Tool Box
+
+<div align="center">
+<img width=50px  style="padding-right:20px;" src='assets/icons/python.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/nodejs.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/ts.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/js.svg'/>
+
+<img width=50px  style="padding-right:20px;" src='assets/icons/expressjs.svg'/>
+
+<img width=50px  style="padding-right:20px;" src='assets/icons/mongodb.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/supabase.svg'/>
+<img width="50px" style="padding-right: 20px" src="assets/icons/sqlite.svg" />
+
+<img width=50px  style="padding-right:20px;" src='assets/icons/react.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/tw.svg'/>
+
+<img width=50px  style="padding-right:20px;" src='assets/icons/vitest.svg'/>
+
 </div>
+
+
+## Featured Projects
+
+#### LAN Tic-Tac-Toe 
+<img width="45%" src="/assets/projects/lan-tic-tac-toe.gif"/>
+
+#### Speed Typer
+<img width="45%" src='/assets/projects/speed-typer.gif'/> 
+
+#### Youtube Player Clone
+<img width="45%" src='/assets/projects/youtube-player-clone.gif'/>
+
+#### Job Board
+<img width="45%" src='/assets/projects/job-board.gif'/>
+
 
 ---
 
