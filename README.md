@@ -1,19 +1,17 @@
-
 <img align="center" width=100% src='assets/typing-name.svg' alt='typing name'/>
 <img align="center" width=100% src='assets/typing-text.svg' alt='typing test'/>
 
 <div align="center">
     
-#### 🖥️ Self-taught programmer 
+#### 🖥️ Self-taught programmer
 
-#### 🎒 Currently a student at Universiti Teknologi Malaysia 
+#### 🎓 Currently a student at Universiti Teknologi Malaysia
 
 #### 🏓 Table tennis and badminton when I'm not coding
 
 #### 👀 I'm a tab hoarder
 
 </div>
-
 
 ## Tool Box
 
@@ -36,38 +34,25 @@
 
 </div>
 
-
-## Featured Projects
-
-#### LAN Tic-Tac-Toe 
 <img width="45%" src="/assets/projects/lan-tic-tac-toe.gif"/>
-
-#### Speed Typer
 <img width="45%" src='/assets/projects/speed-typer.gif'/> 
-
-#### Youtube Player Clone
 <img width="45%" src='/assets/projects/youtube-player-clone.gif'/>
-
-#### Job Board
 <img width="45%" src='/assets/projects/job-board.gif'/>
-
 
 ---
 
-<div style="text-align: center;">
-<h3 style="color:#23D18BFF;">Lets Collaborate 🤝</h3>
-<h5>Available for freelance positions.</h5>
+<div align="center">
 
-<div style="display: flex; justify-content:space-evenly; color:white;">
-<span style="background-color:#0D1117; padding:10px">Full-Stack Web Application</span>
-<span style="background-color:#0D1117; padding:10px">Chrome Extension</span>
-<span style="background-color:#0D1117; padding:10px">Discord Bot</span>
-<span style="background-color:#0D1117; padding:10px">Google App Script</span>
+```typescript
+// Lets Collaborate 🤝
+
+// Available for freelance work.
+
+Full-Stack Web Application | Chrome Extension | Discord Bot | Google App Script
+
+let email = m.usmanvv@gmail.com
+```
 </div>
-
-<h5>Email: <span style="color:#23D18BFF;">m.usmanvv@gmail.com</span></h5>
-</div>
-
 
 
 <!-- Icons: https://github.com/tandpfun/skill-icons
