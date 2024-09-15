@@ -22,6 +22,7 @@
 <img width=50px  style="padding-right:20px;" src='assets/icons/js.svg'/>
 
 <img width=50px  style="padding-right:20px;" src='assets/icons/expressjs.svg'/>
+<img width=50px  style="padding-right:20px;" src='assets/icons/nextjs.svg'/>
 
 <img width=50px  style="padding-right:20px;" src='assets/icons/mongodb.svg'/>
 <img width=50px  style="padding-right:20px;" src='assets/icons/supabase.svg'/>
@@ -52,8 +53,8 @@ Full-Stack Web Application | Chrome Extension | Discord Bot | Google App Script
 
 let email = m.usmanvv@gmail.com
 ```
-</div>
 
+</div>
 
 <!-- Icons: https://github.com/tandpfun/skill-icons
 Typing text: https://readme-typing-svg.demolab.com (color - #23D18BFF) -->
