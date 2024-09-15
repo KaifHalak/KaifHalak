@@ -13,7 +13,7 @@
 
 </div>
 
-## Tool Box
+## Tool Box 🧰
 
 <div align="center">
 <img width=50px  style="padding-right:20px;" src='assets/icons/python.svg'/>
@@ -35,26 +35,43 @@
 
 </div>
 
+## Featured Projects 🔥
+
+<div align="center">
+
+<a href="https://github.com/KaifHalak/LAN-TicTacToe" target="_blank">
 <img width="45%" src="/assets/projects/lan-tic-tac-toe.gif"/>
-<img width="45%" src='/assets/projects/speed-typer.gif'/> 
-<img width="45%" src='/assets/projects/youtube-player-clone.gif'/>
-<img width="45%" src='/assets/projects/job-board.gif'/>
+</a>
+
+<a href="https://github.com/KaifHalak/Speed-Typer" target="_blank">
+    <img width="45%" src='/assets/projects/speed-typer.gif'/> 
+</a>
+
+<a href="https://github.com/KaifHalak/YoutubePlayerClone" target="_blank">
+    <img width="45%" src='/assets/projects/youtube-player-clone.gif'/>
+</a>
+
+<a href="https://github.com/KaifHalak/JobBoard" target="_blank">
+    <img width="45%" src="/assets/projects/job-board.gif" alt="Job Board" />
+</a>
+
+</div>
 
 ---
+
+## Lets Collaborate 🤝
+
+### Available for freelance work:
 
 <div align="center">
 
 ```typescript
-// Lets Collaborate 🤝
-
-// Available for freelance work.
-
 Full-Stack Web Application | Chrome Extension | Discord Bot | Google App Script
-
-let email = m.usmanvv@gmail.com
 ```
 
 </div>
+
+email = `m.usmanvv@gmail.com`
 
 <!-- Icons: https://github.com/tandpfun/skill-icons
 Typing text: https://readme-typing-svg.demolab.com (color - #23D18BFF) -->
