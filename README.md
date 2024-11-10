@@ -71,7 +71,10 @@ Full-Stack Web Application | Chrome Extension | Discord Bot | Google App Script
 
 </div>
 
+### [Resume](https://drive.google.com/file/d/1iuyW0pXLJbvon1EDL4op0rm51ypoETif/view?usp=sharing)
 ### email = `m.usmanvv@gmail.com`
+
+
 
 <!-- Icons: https://github.com/tandpfun/skill-icons
 Typing text: https://readme-typing-svg.demolab.com (color - #23D18BFF) -->
